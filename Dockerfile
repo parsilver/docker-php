@@ -15,6 +15,7 @@ RUN apk --no-cache add \
   php8-pdo \
   php8-pdo_mysql \
   php8-mysqli \
+  php8-redis \
   php8-opcache \
   php8-openssl \
   php8-phar \
